@@ -1,6 +1,6 @@
 ## About
 
-Salesforce.org campfire template for use in US Fundraising related workshops and campfires.
+2022 Nonprofit Summit hands-on training org.
 
 ## Updating Template ID
 
