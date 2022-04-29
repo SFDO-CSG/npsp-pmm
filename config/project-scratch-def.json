@@ -2,7 +2,7 @@
   "orgName": "Salesforce.org Hands-On Training",
   "adminEmail": "cxorg+ngo@salesforce.com",
   "description": "SFDO Nonprofit Summit",
-  "template": "0TT8b000001qXJz",
+  "template": "0TT8b000001rkRm",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
     "lightningExperienceSettings": {
